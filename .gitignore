@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Entorno
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos (no subir audios procesados)
+data/processed/*.wav
+
+# Resultados pesados
+results/figures/*
+results/tables/*
+
+# OS
+.DS_Store
+Thumbs.db
